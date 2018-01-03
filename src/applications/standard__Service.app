@@ -9,8 +9,5 @@
     <tab>standard-Solution</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
-    <tab>ShowMeTheData</tab>
-    <tab>Course__c</tab>
-    <tab>Round__c</tab>
-    <tab>Shot__c</tab>
+    
 </CustomApplication>
