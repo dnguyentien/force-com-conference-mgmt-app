@@ -3,7 +3,5 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <tab>standard-Chatter</tab>
     <tab>standard-Sites</tab>
-    <tab>Course__c</tab>
-    <tab>Round__c</tab>
-    <tab>Shot__c</tab>
+    
 </CustomApplication>
